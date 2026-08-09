@@ -6,7 +6,8 @@ This document answers the ten questions an HR director would actually ask of it.
 
 ********
 
-| Baseline KPIs |
+| Baseline KPIs |        |
+| ------ | ----- |
 | Metric | Value |
 | Total employees | 1,470 |
 | Employees exited | 237 |
