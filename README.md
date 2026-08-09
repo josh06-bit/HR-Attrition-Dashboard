@@ -2,6 +2,9 @@
 
 An automated Excel dashboard built entirely in VBA over the IBM HR Employee Attrition dataset (1,470 employees × 35 fields). One macro — BuildHRDashboard — cleans the data, builds seven PivotTables, five charts, six KPI cards and two connected slicers from a raw CSV in about 30 seconds.
 
+<img width="1682" height="690" alt="image" src="https://github.com/user-attachments/assets/e1fdbffd-b259-434f-9cf2-9ad385a09761" />
+
+
 This document answers the ten questions an HR director would actually ask of it.
 
 ********
