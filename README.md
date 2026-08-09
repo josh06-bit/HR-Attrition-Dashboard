@@ -18,19 +18,19 @@ This document answers the ten questions an HR director would actually ask of it.
 
 Every figure below is computed from the same source table and is reproducible by filtering the dashboard slicers.
 
-Q1. What is our overall attrition rate, and should we be worried?
+## Q1. What is our overall attrition rate, and should we be worried?
 
-Answer. 237 of 1,470 employees have left — a rate of 16.1%.
+**Answer.** 237 of 1,470 employees have left — a rate of **16.1%.**
 
-Insight. On its own the headline number is unremarkable; it sits close to the cross-industry average and would pass unnoticed in a board pack. The problem is that it is an average of wildly uneven groups. Sub-populations inside this workforce range from 2.5% to 52.6%. Reporting 16.1% alone conceals the fact that roughly one third of all exits come from a group representing barely a tenth of the headcount.
+Insight. On its own the headline number is unremarkable; it sits close to the cross-industry average and would pass unnoticed in a board pack. The problem is that it is an *average of wildly uneven groups.* Sub-populations inside this workforce range from 2.5% to 52.6%. Reporting 16.1% alone conceals the fact that roughly one third of all exits come from a group representing barely a tenth of the headcount.
 
-Recommendation. Stop managing to the headline rate. Report attrition segmented by job level, overtime status and tenure band as the standing monthly view, and set separate thresholds per segment. A single company-wide target will always be met by the low-risk majority while the high-risk pockets keep bleeding.
+**Recommendation.** Stop managing to the headline rate. Report attrition segmented by job level, overtime status and tenure band as the standing monthly view, and set separate thresholds per segment. A single company-wide target will always be met by the low-risk majority while the high-risk pockets keep bleeding.
 
-Q2. Which department is losing the most people?
+## Q2. Which department is losing the most people?
 
-Answer. By rate, Sales is worst at 20.6% (92 of 446), followed by Human Resources at 19.0% (12 of 63) and Research & Development at 13.8% (133 of 961). By volume, the order inverts: R&D accounts for 56% of all exits, Sales 39%, HR 5%.
+**Answer.** *By rate*, Sales is worst at **20.6%** (92 of 446), followed by Human Resources at **19.0%** (12 of 63) and Research & Development at **13.8%** (133 of 961). By *volume*, the order inverts: R&D accounts for **56%** of all exits, Sales 39%, HR 5%.
 
-Insight. This is the classic rate-versus-volume trap, and it is why the dashboard charts headcount and exits side by side. Sales has the sharper retention problem per employee, but R&D loses the most actual people and therefore the most institutional knowledge. HR's 19.0% rests on just 12 departures out of 63 staff — two or three more exits would swing that figure by five points, so it should not drive decisions on its own.
+**Insight.** This is the classic rate-versus-volume trap, and it is why the dashboard charts headcount and exits side by side. Sales has the sharper retention problem per employee, but R&D loses the most actual people and therefore the most institutional knowledge. HR's 19.0% rests on just 12 departures out of 63 staff — two or three more exits would swing that figure by five points, so it should not drive decisions on its own.
 
 Recommendation. Run two different interventions. Sales needs a structural fix aimed at the role design (see Q4). R&D needs a volume-focused retention programme targeted at its two largest job families. Treat the HR department's rate as directional only and review it quarterly rather than monthly, given the small base.
 
